@@ -1,3 +1,3 @@
-# $\mathcal{**Graduation**}$
+# **Graduation**
 
-Data, code and result about Bachelor Thesis
+_Data, code and result about Bachelor Thesis_
