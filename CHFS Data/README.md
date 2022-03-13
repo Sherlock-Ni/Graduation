@@ -2,8 +2,8 @@
 ## Upload data
 
 
-The file which is named df is the data global used.   
+_The file which is named df is the data global used._   
 
-df_gross is the data about all countries.  
+_df_gross is the data about all countries._  
 
-Other data files are extracted on demand.  
+_Other data files are extracted on demand._  
